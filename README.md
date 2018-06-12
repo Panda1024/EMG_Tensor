@@ -23,4 +23,5 @@ Author: Sanghyun Kim (ggory15@snu.ac.kr)
 	2. EMG data is refined by using MAV filter, zero-phase low pass filter, and DTW algorithm (for align time-series)
     3. Force data is filtered by using low pass filter.
 	
-    	
+``` EMG Main Code ```
+	1. 
