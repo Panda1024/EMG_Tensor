@@ -1,10 +1,12 @@
-# EMG_Tensor
+# Force Prediction by EMG Signals and Arm Posture: Tensor Decomposition Based Approach
 
-This module is to predict grasping force from EMG signals by using Tensor decomposition based algorithm.
+This modules are to predict grasping force from EMG signals by using tensor decomposition based algorithm.
 
-This moulde is based on MATLAB R2018a and Tensor Toolbox.
+This mouldes are based on MATLAB R2018a and Tensor Toolbox.
 
-This module is work-in-progress.
+This modules are work-in-progress.
+
+We cannot upload our dataset of EMG and force data, because of the IRB at SNU. 
 
 Author: Sanghyun Kim (ggory15@snu.ac.kr) 
 
