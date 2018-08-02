@@ -20,10 +20,12 @@ Author: Sanghyun Kim (ggory15@snu.ac.kr)
     4. Requirement: NIDAQ-MX, Delsys EMGworks 
 
 ``` EMG Preprosessing ```
+
     1. This is module in Matlab for filtering EMG and force data which are obtained by EMG Acquisition module.
     2. EMG data to train multi-factor model is refined by using MAV filter, zero-phase low pass filter, and DTW algorithm (for align time-series)
     3. Force data is filtered by using low pass filter.
 	
-``` EMG Main Code ```
+``` EMG Main Code (not uploaded) ``` 
+
 	1. This is to train multi-factor model using Tensor Toolbox.
         2. This also contains other comparison algorithm based on multi variable regression to validate the performance of our algorithm. 
