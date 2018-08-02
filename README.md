@@ -27,5 +27,5 @@ Author: Sanghyun Kim (ggory15@snu.ac.kr)
 	
 ``` EMG Main Code (not uploaded) ``` 
 
-	1. This is to train multi-factor model using Tensor Toolbox.
-        2. This also contains other comparison algorithm based on multi variable regression to validate the performance of our algorithm. 
+    1. This is to train multi-factor model using Tensor Toolbox.
+    2. This also contains other comparison algorithm based on multi variable regression to validate the performance of our algorithm. 
